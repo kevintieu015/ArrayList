@@ -20,5 +20,5 @@ public class arrayList {
         
         //Prints out the defined above list 
         System.out.println(list);
-    }
+    }   
 }
